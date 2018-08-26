@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+RandomForestClassifier,WDC WD60EFRX.csv,0.4999696520389495,13.254852056503296

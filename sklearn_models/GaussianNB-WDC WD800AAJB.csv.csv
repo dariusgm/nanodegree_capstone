@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,WDC WD800AAJB.csv,0.48447488584474885,0.16099858283996582

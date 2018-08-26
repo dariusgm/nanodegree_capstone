@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+NearestCentroid,ST4000DX002.csv,0.3529411764705882,0.12949848175048828

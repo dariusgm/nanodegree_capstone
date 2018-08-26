@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,WDC WD20EFRX.csv,0.0,0.21847057342529297

@@ -1,0 +1,32 @@
+tree
+version=v2
+num_class=1
+num_tree_per_iteration=1
+label_index=0
+max_feature_idx=8
+objective=binary sigmoid:1
+feature_names=smart_5_raw smart_9_raw smart_12_raw smart_183_raw smart_187_raw smart_190_raw smart_195_raw smart_199_raw smart_241_raw
+feature_infos=none [60:661] none none none [28:39] none none [141495288:5464380232]
+tree_sizes=333
+
+Tree=0
+num_leaves=3
+num_cat=0
+split_feature=1 1
+split_gain=61.2957 8.88178e-16
+threshold=579.50000000000011 464.00000000000006
+decision_type=2 2
+left_child=1 -1
+right_child=-2 -3
+leaf_value=-3.0785180515146839 -2.988817055800574 -3.0785180515146839
+leaf_count=100 21 23
+internal_value=0 -1.04651
+internal_count=144 123
+shrinkage=1
+
+
+
+feature importances:
+smart_9_raw=2
+
+pandas_categorical:[]

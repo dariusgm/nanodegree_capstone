@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,TOSHIBA DT01ACA300.csv,0.49933047670058917,0.22149896621704102

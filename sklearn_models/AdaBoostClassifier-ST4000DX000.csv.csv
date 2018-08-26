@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+AdaBoostClassifier,ST4000DX000.csv,0.4999235668789809,23.899221420288086

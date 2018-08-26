@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,ST4000DX000.csv,0.4998810939357908,1.709977626800537

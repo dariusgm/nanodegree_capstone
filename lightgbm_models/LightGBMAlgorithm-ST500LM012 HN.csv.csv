@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LightGBMAlgorithm,ST500LM012 HN.csv,0.49994192874011173,1.4579298496246338

@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,ST250LM004 HN.csv,0.49582849297708315,0.23999571800231934

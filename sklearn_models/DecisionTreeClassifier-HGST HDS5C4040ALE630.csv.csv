@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+DecisionTreeClassifier,HGST HDS5C4040ALE630.csv,0.49991463206419673,0.3139967918395996

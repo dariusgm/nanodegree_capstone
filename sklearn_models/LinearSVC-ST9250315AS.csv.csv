@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LinearSVC,ST9250315AS.csv,0.48700626863854907,0.6614656448364258

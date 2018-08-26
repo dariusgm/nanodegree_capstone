@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,HGST HUH728080ALE600.csv,0.0,0.5109961032867432

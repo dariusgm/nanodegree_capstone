@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+DecisionTreeClassifier,ST4000DM000.csv,0.5325822742742069,320.42554235458374

@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+AdaBoostClassifier,TOSHIBA MD04ABA400V.csv,0.0,11.968362092971802

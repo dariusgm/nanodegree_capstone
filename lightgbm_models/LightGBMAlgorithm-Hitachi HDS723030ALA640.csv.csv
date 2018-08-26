@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LightGBMAlgorithm,Hitachi HDS723030ALA640.csv,0.676451240908567,0.8139932155609131

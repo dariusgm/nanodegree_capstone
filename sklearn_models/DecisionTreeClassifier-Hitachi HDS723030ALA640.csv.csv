@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+DecisionTreeClassifier,Hitachi HDS723030ALA640.csv,0.49997537638947515,7.672910213470459

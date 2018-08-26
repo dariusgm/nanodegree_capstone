@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LightGBMAlgorithm,ST4000DX000.csv,0.5908326551915294,0.23594164848327637

@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,WDC WD3200BEKX.csv,0.4962465428684314,0.18849492073059082

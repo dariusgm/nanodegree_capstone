@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+RandomForestClassifier,ST4000DX000.csv,0.5999320582939838,5.5659356117248535

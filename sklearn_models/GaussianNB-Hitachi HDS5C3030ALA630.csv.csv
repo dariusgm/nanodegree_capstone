@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,Hitachi HDS5C3030ALA630.csv,0.5048509348193676,11.74636435508728

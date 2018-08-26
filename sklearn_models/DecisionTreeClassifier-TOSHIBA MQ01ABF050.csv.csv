@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+DecisionTreeClassifier,TOSHIBA MQ01ABF050.csv,0.4999142177887797,1.0984907150268555

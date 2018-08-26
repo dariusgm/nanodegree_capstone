@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+AdaBoostClassifier,Hitachi HDS722020ALA330.csv,0.0,507.2431948184967

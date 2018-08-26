@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,Hitachi HDS723020BLA642.csv,0.4893395735829433,0.13299942016601562

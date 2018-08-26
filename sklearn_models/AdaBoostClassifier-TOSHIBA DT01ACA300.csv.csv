@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+AdaBoostClassifier,TOSHIBA DT01ACA300.csv,0.4999331282599973,3.470458984375

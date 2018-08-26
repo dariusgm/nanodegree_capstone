@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,TOSHIBA DT01ACA300.csv,0.0,0.14949870109558105

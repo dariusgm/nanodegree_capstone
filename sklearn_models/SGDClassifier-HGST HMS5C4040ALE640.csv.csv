@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,HGST HMS5C4040ALE640.csv,0.4999928242368576,25.45268487930298

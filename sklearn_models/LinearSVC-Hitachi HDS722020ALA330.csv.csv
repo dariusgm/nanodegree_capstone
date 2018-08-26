@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LinearSVC,Hitachi HDS722020ALA330.csv,0.5031499102520102,850.4747896194458

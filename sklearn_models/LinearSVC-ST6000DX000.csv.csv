@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LinearSVC,ST6000DX000.csv,0.49633692591294126,452.26977467536926

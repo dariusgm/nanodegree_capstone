@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LinearSVC,ST4000DM001.csv,0.49574878723071303,14.097339630126953

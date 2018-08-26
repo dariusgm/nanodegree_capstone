@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+DecisionTreeClassifier,WDC WD30EZRX.csv,0.49992045183358524,0.2869865894317627

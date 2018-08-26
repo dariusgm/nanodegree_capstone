@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+MLPClassifier,WDC WD20EFRX.csv,0.49947970863683655,3.31946063041687

@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LinearSVC,TOSHIBA DT01ACA300.csv,0.4994645247657296,3.000964879989624

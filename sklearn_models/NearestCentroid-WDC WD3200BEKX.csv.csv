@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+NearestCentroid,WDC WD3200BEKX.csv,0.2974839480364342,0.18799781799316406

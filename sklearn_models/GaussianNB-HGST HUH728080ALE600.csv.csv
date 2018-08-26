@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,HGST HUH728080ALE600.csv,0.14426378407597185,0.48549437522888184

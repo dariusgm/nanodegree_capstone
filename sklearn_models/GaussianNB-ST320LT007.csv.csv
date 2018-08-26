@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,ST320LT007.csv,0.0,0.26998090744018555

@@ -1,0 +1,33 @@
+tree
+version=v2
+num_class=1
+num_tree_per_iteration=1
+label_index=0
+max_feature_idx=23
+objective=binary sigmoid:1
+feature_names=smart_1_raw smart_3_raw smart_4_raw smart_5_raw smart_7_raw smart_9_raw smart_10_raw smart_12_raw smart_183_raw smart_184_raw smart_187_raw smart_188_raw smart_189_raw smart_190_raw smart_191_raw smart_192_raw smart_193_raw smart_194_raw smart_197_raw smart_198_raw smart_199_raw smart_240_raw smart_241_raw smart_242_raw
+feature_infos=[0:244109488] none [1:8] none [4669:17249774257] [0:5217] none [1:8] [0:2] none none none none [13:44] none [0:211] [2:119059] [13:44] [0:272] [0:272] none [7:281440616973760] [0:17227149551] [3120:34501756050]
+tree_sizes=481
+
+Tree=0
+num_leaves=5
+num_cat=0
+split_feature=22 22 21 21
+split_gain=5.18741 102.644 16.8764 159.182
+threshold=7966931099.500001 7962520794.500001 21766894258063.004 17729625001241.004
+decision_type=2 2 2 2
+left_child=1 2 3 -1
+right_child=-2 -3 -4 -5
+leaf_value=-8.1858318226954552 -8.1858318226954552 -7.1082559762097226 -8.1858318226954552 -6.4078316759941201
+leaf_count=171 6455 33 1851 20
+internal_value=0 2.42719 0.741149 17.6175
+internal_count=8530 2075 2042 191
+shrinkage=1
+
+
+
+feature importances:
+smart_240_raw=2
+smart_241_raw=2
+
+pandas_categorical:[]

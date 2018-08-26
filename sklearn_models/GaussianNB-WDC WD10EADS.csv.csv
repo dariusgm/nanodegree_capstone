@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,WDC WD10EADS.csv,0.5029789578855315,0.43399667739868164

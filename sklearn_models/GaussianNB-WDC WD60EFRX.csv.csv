@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,WDC WD60EFRX.csv,0.5036489881702556,1.0949923992156982

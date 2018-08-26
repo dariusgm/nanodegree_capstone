@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,WDC WD1600BPVT.csv,0.0,0.06349945068359375

@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+GaussianNB,ST4000DM005.csv,0.49922480620155035,0.22299909591674805

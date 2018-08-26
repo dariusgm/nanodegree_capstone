@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LightGBMAlgorithm,ST8000DM002.csv,0.535704122890209,7.463924169540405

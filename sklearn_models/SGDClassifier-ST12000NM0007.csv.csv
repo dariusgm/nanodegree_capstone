@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,ST12000NM0007.csv,0.49998318819138565,18.03928852081299

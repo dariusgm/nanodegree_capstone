@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+SGDClassifier,Hitachi HDS723030ALA640.csv,0.0,3.7589564323425293

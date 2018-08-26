@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+DecisionTreeClassifier,TOSHIBA DT01ACA300.csv,0.0,0.1809988021850586

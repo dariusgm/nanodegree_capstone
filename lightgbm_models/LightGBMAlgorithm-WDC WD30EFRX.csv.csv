@@ -1,0 +1,2 @@
+clf_name,drive,f_beta_score,time
+LightGBMAlgorithm,WDC WD30EFRX.csv,0.4999624646871728,0.8579914569854736
