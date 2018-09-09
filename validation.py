@@ -9,6 +9,28 @@ import os
 from joblib import Parallel, delayed
 
 class Validation:
+    def merge_and_show(validation_results):
+        merged_result = Winner.calculate()
+        unneded_columnns = ['AdaBoostClassifier', 'GaussianNB', 'KerasAlgorithm', 'LightGBMAlgorithm', 'LinearSVC', 
+                            'MLPClassifier', 'NearestCentroid', 'RandomForestClassifier' , 'SGDClassifier', 'SVC', 
+                            'XGBoostGbtreeAlgorithm', 'winner', 'failure', 'file', 'lines', 'ok', 'size', 'test', 'train', 'validate']
+        validation_results_mean = []
+        for _i, row in validation_results.iterrows():
+            values = [row['fbeta_run_0'], row['fbeta_run_1'], row['fbeta_run_2'], row['fbeta_run_3'], row['fbeta_run_4'], row['fbeta_run_5']]
+            minimal_fbeta = min(values)
+            maximal_fbeta =  max(values)
+            mean_fbeta = np.mean(values)
+            validation_results_mean.append({
+                'drive_csv': row['drive_csv'],
+                 'minimal_fbeta': minimal_fbeta,
+                 'maximal_fbeta': maximal_fbeta,
+                 'mean_fbeta': mean_fbeta
+                }
+            )
+
+        kfold = merged_result.merge(pd.DataFrame(validation_results_mean), on='drive_csv')
+        return kfold[kfold['winner'] == 'DecisionTreeClassifier'].drop(unneded_columnns,  axis='columns')
+
     def run(drive_csv):
         scores = {}
         grid_search_df = pd.read_csv('grid_search.csv')
